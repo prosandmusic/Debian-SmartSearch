@@ -1,2 +1,2 @@
 # Debian-SmartSearch
-Gnome Extension for adding LLM's to Debian 12  Gnome Shell 43+ 
+MCP Server wrapping D-bus for Ai Infused Linux 
